@@ -1,4 +1,4 @@
-# merchant-marketplace
+# Bag'O Merch
 
 For steps on how to work with this repository [please see here](https://docs.labs.lambdaschool.com/labs-spa-starter/)
 
@@ -8,11 +8,25 @@ You can find the deployed project at LINK.
 
 ## Contributors
 
-|                                                      [Student 1](https://github.com/munal92)                                                       |                                                       [Student 2](https://github.com/Catherinesjkim)                                                        |                                                      [Student 3](https://github.com/RSibaja88)                                                       |                                                       [Student 4](https://github.com/JC8747)                                                        |                                                      [Student 5](https://github.com/)                                                       |
+|                                                      [Student 1](https://github.com/munal92)                                                       |                                                       [Student 2](https://github.com/Catherinesjkim)                                               |                                                      [Student 3](https://github.com/RSibaja88)                                                      |                                                       [Student 4](https://github.com/JC8747)                                                        |                                                      [Student 5](https://github.com/)                                                       |
 | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://user-images.githubusercontent.com/17114008/98498816-b2319080-21fc-11eb-9e84-1297a7ea6338.jpeg" width = "200" />](https://github.com/munal92) | [<img src="https://user-images.githubusercontent.com/17114008/98498847-c2e20680-21fc-11eb-8116-cf8f09fdd09f.png" width = "200" />](https://github.com/catherinesjkim) | [<img src="https://user-images.githubusercontent.com/17114008/98498615-1142d580-21fc-11eb-8340-03b41a7c6059.jpeg" width = "200" />](https://github.com/RSibaja88) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) |
-|                                [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                                |                            [<img src="https://user-images.githubusercontent.com/17114008/98498620-12740280-21fc-11eb-9e7f-9aa6ef8e252e.jpeg)                             |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/JC8747)                           |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                           |                           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                            |
-|                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/munal92/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/catherinesjkim/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/rodrigossibaja/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com//jonathanchiaverini/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |
+|[<img src="https://user-images.githubusercontent.com/17114008/98498816-b2319080-21fc-11eb-9e84-1297a7ea6338.jpeg" width = "200" />](https://github.com/munal92) 
+|[<img src="https://user-images.githubusercontent.com/17114008/98498847-c2e20680-21fc-11eb-8116-cf8f09fdd09f.png" width = "200" />](https://github.com/catherinesjkim) 
+|[<img src="https://user-images.githubusercontent.com/17114008/98498615-1142d580-21fc-11eb-8340-03b41a7c6059.jpeg" width = "200" />](https://github.com/RSibaja88) 
+|[<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />]
+(https://github.com/) 
+|[<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />]
+(https://github.com/) 
+|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                                
+|[<img src="https://user-images.githubusercontent.com/17114008/98498620-12740280-21fc-11eb-9e7f-9aa6ef8e252e.jpeg)
+|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/JC8747)                           
+|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                           
+|[<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                            
+|[<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/munal92/)                
+|[<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/catherinesjkim/)                 
+|[<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/rodrigossibaja/)                
+|[<img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com//jonathanchiaverini/)
+|[ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/victoria-d-42315b194/)                
 
 <br>
 <br>

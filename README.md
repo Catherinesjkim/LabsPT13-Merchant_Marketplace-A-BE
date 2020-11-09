@@ -2,50 +2,43 @@
 
 For steps on how to work with this repository [please see here](https://docs.labs.lambdaschool.com/labs-spa-starter/)
 
-🚫 Note: All lines that start with 🚫 are instructions and should be deleted before this is posted to your first Pull-Request is merged. This is intended to be a guideline. Feel free to add your own flare to it.
-
 # Project
 
-You can find the deployed project at [🚫URL NAME GOES HERE](🚫copy and paste URL here).
+You can find the deployed project at LINK.
 
 ## Contributors
 
-🚫Add contributor info below, make sure add images and edit the social links for each member. Add to or delete these place-holders as needed
-
-|                                                      [Student 1](https://github.com/)                                                       |                                                       [Student 2](https://github.com/)                                                        |                                                      [Student 3](https://github.com/)                                                       |                                                       [Student 4](https://github.com/)                                                        |                                                      [Student 5](https://github.com/)                                                       |
+|                                                      [Student 1](https://github.com/munal92)                                                       |                                                       [Student 2](https://github.com/Catherinesjkim)                                                        |                                                      [Student 3](https://github.com/RSibaja88)                                                       |                                                       [Student 4](https://github.com/JC8747)                                                        |                                                      [Student 5](https://github.com/)                                                       |
 | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) |
-|                                [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                                |                            [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/honda0306)                             |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/Mister-Corn)                           |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/NandoTheessen)                           |                           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/wvandolah)                            |
-|                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |
+| [<img src="https://user-images.githubusercontent.com/17114008/98498816-b2319080-21fc-11eb-9e84-1297a7ea6338.jpeg" width = "200" />](https://github.com/munal92) | [<img src="https://user-images.githubusercontent.com/17114008/98498847-c2e20680-21fc-11eb-8116-cf8f09fdd09f.png" width = "200" />](https://github.com/catherinesjkim) | [<img src="https://user-images.githubusercontent.com/17114008/98498615-1142d580-21fc-11eb-8340-03b41a7c6059.jpeg" width = "200" />](https://github.com/RSibaja88) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-female.png" width = "200" />](https://github.com/) | [<img src="https://www.dalesjewelers.com/wp-content/uploads/2018/10/placeholder-silhouette-male.png" width = "200" />](https://github.com/) |
+|                                [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                                |                            [<img src="https://user-images.githubusercontent.com/17114008/98498620-12740280-21fc-11eb-9e7f-9aa6ef8e252e.jpeg)                             |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/JC8747)                           |                          [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                           |                           [<img src="https://github.com/favicon.ico" width="15"> ](https://github.com/)                            |
+|                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/munal92/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/catherinesjkim/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/rodrigossibaja/)                |                 [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com//jonathanchiaverini/)                 |                [ <img src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="15"> ](https://www.linkedin.com/)                |
 
 <br>
 <br>
 
-🚫 Optional examples of using images with links for your tech stack, make sure to change these to fit your project
-
-![MIT](https://img.shields.io/packagist/l/doctrine/orm.svg)
-![node express](https://img.shields.io/node/v-lts/express)
+![MIT](https://whimsical.com/bago-merch-marketplace-logan-L2xXFiSTGKy5V3No9fhrNn)
+![node express](https://dbdesigner.page.link/itNAM8X7YJZEk2eo8)
 ![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-🚫 more info on using badges [here](https://github.com/badges/shields)
 
 ### Key Features
 
-- feature one
-- feature two
-- feature three
-- feature four
-- feature five
+- feature one: As a buyer, I can become a seller after registration & login
+- feature two: As a seller, I am able to see my inventory
+- feature three: As a seller, I am able to add a tag to my posted items
+- feature four: As a user, I am able to sort items by category
+- feature five: As a buyer, I am able to see where my seller is located at
 
-#### Back end deployed to `🚫insert service here`
+#### Back end deployed to https://labspt13-marketplace-a-api.herokuapp.com/
 
 #### [Front end](🚫link to back end repo here) built using:
 
-#### 🚫 back end framework and key libraries go here
+#### back end framework and key libraries
 
-- point one
-- point two
-- point three
+- point one: NodeJS
+- point two: express
+- point three: knex
 
 🚫 List the rest of the back end end features and libraries in the same format as the framework above
 
